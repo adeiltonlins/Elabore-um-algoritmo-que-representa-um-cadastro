@@ -1,0 +1,1 @@
+# Elabore-um-algoritmo-que-representa-um-cadastro
